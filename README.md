@@ -8,7 +8,7 @@
 
 ### 🔥 About
 - 🧠 **Name:** André "shani" Conceição  
-- 🎓 **Student:** Gestão  
+- 🎓 **Student:** Management  
 - 🗺️ **Location:** Portugal, Lisboa
 
 <p align="center">

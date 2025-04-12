@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Tuga Army Logo" width="100" />
+  <img src="./assets/logo.png" alt="Tuga Army Logo" width="150" />
 </p>
 
 <p align="center">

@@ -21,8 +21,7 @@
 
 ### 💼 Personal project
 
-Founder of [b]Tuga Army[/b]
-Join us:  
+Founder of **Tuga Army**
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  

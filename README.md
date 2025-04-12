@@ -16,10 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=httpshani&color=blue" alt="Profile views" />
 </p>
 
-
 ---
-
-## 💼 Personal Project — Tuga Army
 
 <p align="center">
   <img src="./assets/logo.png" alt="Tuga Army Logo" width="200" />

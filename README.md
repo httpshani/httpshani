@@ -21,10 +21,11 @@
 
 ### 💼 Personal project
 
-Founder of **Tuga Army** <p align="center">
-  <img src="https://imgur.com/HDhInMg" alt="Tuga Army Logo" width="400" />
+<p align="center">
+  <img src="https://imgur.com/HDhInMg" alt="Tuga Army Logo" width="200" />
 </p>
 
+Founder of **Tuga Army**
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  

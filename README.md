@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shani!;" />
+</h1>
 
-<!--
-**httpshani/httpshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>“We are the size of our dreams, and within us, we carry all the dreams in the world’”</em></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About
+- 🧠 **Name:** André "shani" Conceição  
+- 🎓 **Student:** Gestão  
+- 🗺️ **Location:** Portugal, Lisboa
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1357508178341925014.png" /><br>
+  <img src="https://komarev.com/ghpvc/?username=httpshani&color=blue" alt="Profile views" />
+</p>
+
+
+---
+
+### 💼 Success
+
+Obsessed with *success*. Founder of [Tuga Army](https://tugaarmy.pt)  
+Join us:  
+- 🌍 [Website](https://tugaarmy.pt)  
+- 🎙️ [Discord](https://discord.gg/tugaarmy)  
+- 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
+- 🔗 [Other links](https://linktr.ee/tugaarmy)  
+
+---
+
+<p align="center">
+  <sub>shani ©2025</sub><br><br>
+</p>

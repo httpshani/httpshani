@@ -18,14 +18,7 @@
 
 
 ---
-
-### 💼 Personal project
-
-Founder of **Tuga Army**
-- 🌍 [Website](https://tugaarmy.pt)  
-- 🎙️ [Discord](https://discord.gg/tugaarmy)  
-- 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
-- 🔗 [Other links](https://linktr.ee/tugaarmy)  
+<p align="left"> <a href="https://tugaarmy.pt" target="_blank"> <img src="https://img.shields.io/badge/🌍 Website-tugaarmy.pt-blue?style=for-the-badge" /> </a> <a href="https://discord.gg/tugaarmy" target="_blank"> <img src="https://img.shields.io/discord/your_server_id?label=🎙️%20Discord&style=for-the-badge&color=7289DA" /> </a> <a href="https://steamcommunity.com/groups/tugaarmycm" target="_blank"> <img src="https://img.shields.io/badge/📌 Steam%20Group-gray?style=for-the-badge&logo=steam" /> </a> <a href="https://linktr.ee/tugaarmy" target="_blank"> <img src="https://img.shields.io/badge/🔗 Outros%20Links-linktr.ee-black?style=for-the-badge" /> </a> </p>
 
 ---
 

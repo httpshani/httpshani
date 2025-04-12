@@ -19,17 +19,32 @@
 
 ---
 
-### 💼 Personal project
+## 💼 Personal Project — Tuga Army
 
 <p align="center">
   <img src="./assets/logo.png" alt="Tuga Army Logo" width="200" />
 </p>
 
-Founder of **Tuga Army**
-- 🌍 [Website](https://tugaarmy.pt)  
-- 🎙️ [Discord](https://discord.gg/tugaarmy)  
-- 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
-- 🔗 [Other links](https://linktr.ee/tugaarmy)  
+<p align="center">
+  <strong>Founder of <span style="color:#ffffff">Tuga Army</span></strong><br/>
+  Comunidade gamer portuguesa com foco em eventos, servidores e união da malta nos jogos.
+</p>
+
+<p align="center">
+  <a href="https://tugaarmy.pt" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Website-tugaarmy.pt-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://discord.gg/tugaarmy" target="_blank">
+    <img src="https://img.shields.io/badge/🎙️%20Discord-join%20chat-7289DA?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="https://steamcommunity.com/groups/tugaarmycm" target="_blank">
+    <img src="https://img.shields.io/badge/📌%20Steam%20Group-Tuga%20Army-gray?style=for-the-badge&logo=steam" />
+  </a>
+  <a href="https://linktr.ee/tugaarmy" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Other%20Links-linktr.ee-black?style=for-the-badge&logo=linktree" />
+  </a>
+</p>
+
 
 ---
 

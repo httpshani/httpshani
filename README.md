@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/%20Website-tugaarmy.pt-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://discord.gg/tugaarmy" target="_blank">
-    <img src="https://img.shields.io/badge/🎙%20Discord-join%20chat-7289DA?style=for-the-badge&logo=discord" />
+    <img src="https://img.shields.io/badge/%20Discord-join%20chat-7289DA?style=for-the-badge&logo=discord" />
   </a>
   <a href="https://steamcommunity.com/groups/tugaarmycm" target="_blank">
     <img src="https://img.shields.io/badge/%20Steam%20Group-Tuga%20Army-gray?style=for-the-badge&logo=steam" />

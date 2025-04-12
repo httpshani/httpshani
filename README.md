@@ -27,7 +27,7 @@
 
 <p align="center">
   <strong>Founder of <span style="color:#ffffff">Tuga Army</span></strong><br/>
-  Comunidade gamer portuguesa com foco em eventos, servidores e união da malta nos jogos.
+  top #1 in portugal 🇵🇹
 </p>
 
 <p align="center">

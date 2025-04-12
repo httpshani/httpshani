@@ -22,7 +22,7 @@
 ### 💼 Personal project
 
 <p align="center">
-  <img src="https://imgur.com/HDhInMg" alt="Tuga Army Logo" width="200" />
+  <img src="./assets/logo.png" alt="Tuga Army Logo" width="200" />
 </p>
 
 Founder of **Tuga Army**

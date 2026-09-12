@@ -42,27 +42,6 @@
 
 ---
 
-### 🛠️ Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpshani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4C8DFF&text_color=C9D1D9&icon_color=4C8DFF" height="160" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpshani&layout=compact&hide_border=true&bg_color=0D1117&title_color=4C8DFF&text_color=C9D1D9" height="160" alt="Linguagens" />
-</p>
-
----
-
 <p align="center">
   <sub>shani ©2026</sub><br><br>
 </p>

@@ -10,7 +10,6 @@
 - 🧠 **Nome:** André "shani" Conceição
 - 🎓 **Estudante:** Gestão
 - 🗺️ **Localização:** Lisboa, Portugal
-- 🎮 **Vício:** Counter-Strike 2
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1357508178341925014.png" alt="Discord" /><br>

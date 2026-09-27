@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong>Parte da <span style="color:#ffffff">windoh.gg</span></strong><br/>
+  <strong>founder of <span style="color:#ffffff">@windoh.gg</span></strong><br/>
   comunidade de servidores de CS2 🇵🇹
 </p>
 

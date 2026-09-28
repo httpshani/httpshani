@@ -1,46 +1,41 @@
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Ol%C3%A1!+%F0%9F%91%8B;Sou+o+Shani!;" />
-</h1>
-
-<p align="center"><em>“Somos do tamanho dos nossos sonhos, e dentro de nós carregamos todos os sonhos do mundo.”</em></p>
-
----
-
-### 🔥 Sobre mim
-- 🧠 **Nome:** André "shani" Conceição
-- 🎓 **Estudante:** Gestão
-- 🗺️ **Localização:** Lisboa, Portugal
-
+<!-- ═══════════════ SHANI ═══════════════ -->
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1357508178341925014.png" alt="Discord" /><br>
-  <img src="https://komarev.com/ghpvc/?username=httpshani&color=blue" alt="Visitas ao perfil" />
+  <img src="./assets/shani.svg" width="100%" alt="shani - Somos do tamanho dos nossos sonhos, e dentro de nós carregamos todos os sonhos do mundo." />
 </p>
 
 ---
 
+<!-- ═══════════════ WINDOH.GG ═══════════════ -->
 <p align="center">
-  <img src="./assets/windoh.png" alt="windoh.gg" width="170" />
+  <img src="./assets/windoh.png" alt="windoh.gg" width="150" />
 </p>
 
 <p align="center">
-  <strong>founder of <span style="color:#ffffff">@windoh.gg</span></strong><br/>
-  comunidade de servidores de CS2 🇵🇹
+  <strong>windoh.gg</strong> - Portugal merecia servidores à altura, nós construímo-los.
 </p>
 
 <p align="center">
-  <a href="https://windoh.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/%20Website-windoh.gg-4C8DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://discord.gg/windohgg" target="_blank">
-    <img src="https://img.shields.io/badge/%20Discord-entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://steam.windoh.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/%20Steam-grupo-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Grupo Steam" />
-  </a>
+  <a href="https://windoh.gg/"><img src="https://img.shields.io/badge/WEBSITE-windoh.gg-4C8DFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070f" alt="Website" /></a>
+  <a href="https://discord.gg/windohgg"><img src="https://img.shields.io/badge/DISCORD-entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=05070f" alt="Discord" /></a>
+  <a href="https://steam.windoh.gg/"><img src="https://img.shields.io/badge/STEAM-grupo-66C0F4?style=for-the-badge&logo=steam&logoColor=white&labelColor=05070f" alt="Steam" /></a>
 </p>
 
 ---
 
+<!-- ═══════════════ STACK ═══════════════ -->
 <p align="center">
-  <sub>shani ©2026</sub><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,discordjs,nextjs,html,cs,cpp&theme=dark&perline=8" alt="stack" />
 </p>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<p align="center">
+  <a href="https://discord.com/users/1357508178341925014"><img src="https://lanyard.cnrad.dev/api/1357508178341925014?theme=dark&bg=0A0E16&borderRadius=14px&animated=true&hideActivity=whenNotUsed&hideTimestamp=true" height="170" alt="Discord" /></a>
+  &nbsp;
+  <a href="https://steamcommunity.com/id/httpshani-/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198776867931&show_in_game_bg=true" height="170" alt="Steam" /></a>
+</p>
+
+<p align="center">
+  <sub>shani ©2026 • <!--VISITAS-->0<!--/VISITAS--> visitas</sub>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=httpshani&style=pixel" alt="" />

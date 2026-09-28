@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <sub>shani ©2026 • <!--VISITAS-->0<!--/VISITAS--> visitas</sub>
+  <sub>shani ©2026 • <!--VISITAS-->192.108<!--/VISITAS--> visitas</sub>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=httpshani&style=pixel" alt="" />
